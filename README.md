@@ -18,10 +18,11 @@
 
 7. Organize code by using variables
 
+<p>
 <strong>
   Structure
   </strong>
-  
+  </p>
 
 Task 1: Create, set up, and learn to navigate Earsketch.
 

@@ -18,21 +18,6 @@
 
 7. Organize code by using variables
 
-<p>
-<strong>
-  Structure
-  </strong>
-  </p>
-
-Task 1: Create, set up, and learn to navigate Earsketch.
-
-Task 2: Learn to set up program script and add comments.
-
-Task 3: Compose a song by adding Python script.
-
-Task 4: Build blocks of rhythm and add track effects.
-
-Task 5: Create variables to clean up the code.
 
 <p align="center">
   <h4> Program-Music-in-Python-Preview </h4>

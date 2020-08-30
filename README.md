@@ -1,6 +1,8 @@
 # Compose-and-Program-Music-in-Python
 
-Objectives
+<strong>
+  Objectives
+  </strong>
 
 1. Create and set up an Earsketch account
 
@@ -16,7 +18,10 @@ Objectives
 
 7. Organize code by using variables
 
-Structure
+<strong>
+  Structure
+  </strong>
+  
 This course is divided into 3 parts:
 
 The hands on project Learn How to Program using Python in Earsketch is divided into the following tasks:
